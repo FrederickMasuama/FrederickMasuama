@@ -2,26 +2,28 @@
 Etudiant en Master2 Modélisation, Ananlyse Numérique et Calcul Scientifique (MACS) à Nantes Université. 
 
 
-🛠️ Outils
+### 🛠️ Outils
 
 Fortran · Python · Linux · Git · Gnuplot · LaTeX
 
-🚀 Voici deux de mes projets 
 
-🌡️ Modélisation numérique de la chaleur  — 1D → 2D https://github.com/FrederickMasuama/Mod-lisation-de-la-chaleur-dans-un-appartement-lors-d-une-canicule
+🚀 Voici quelques uns de mes projets :
 
-🌊 Advaction 1D — (https://github.com/FrederickMasuama/solveur-equation-d-advection-1D)
+🌡️  [Modélisation numérique de la chaleur  — 1D → 2D](https://github.com/FrederickMasuama/Mod-lisation-de-la-chaleur-dans-un-appartement-lors-d-une-canicule)
 
-🔢 Transfert thermique FEM — https://github.com/FrederickMasuama/flux_thermique_MEF.git
+🌊 [Advaction 1D ](https://github.com/FrederickMasuama/solveur-equation-d-advection-1D)
 
-Here are some ideas to get you started:
+🔢 [Transfert thermique FEM](https://github.com/FrederickMasuama/flux_thermique_MEF.git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+
+🔭 Je suis, actuellement, à la recherche d'un stage de fin d'études de 6 mois à partir du mois d'Avril  
+
+
+  ### 📫 Contact
+
+[LinkedIn]([https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/in/fr%C3%A9d%C3%A9rick-masuama-8ba3b4164/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByV17dixkS3yg40fhba7YaQ%3D%3D)) · [Email](frederickmasuama@gmail.com)
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
