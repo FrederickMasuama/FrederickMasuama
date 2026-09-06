@@ -7,9 +7,12 @@ Etudiant en Master2 Modélisation, Ananlyse Numérique et Calcul Scientifique (M
 Fortran · Python · Linux · Git · Gnuplot · LaTeX
 
 🚀 Voici deux de mes projets 
-#🌡️ Modélisation numérique de la chaleur  — 1D → 2D https://github.com/FrederickMasuama/Mod-lisation-de-la-chaleur-dans-un-appartement-lors-d-une-canicule
-#🌊 Advaction 1D — (https://github.com/FrederickMasuama/solveur-equation-d-advection-1D)
-#🔢 Transfert thermique FEM — https://github.com/FrederickMasuama/flux_thermique_MEF.git
+
+🌡️ Modélisation numérique de la chaleur  — 1D → 2D https://github.com/FrederickMasuama/Mod-lisation-de-la-chaleur-dans-un-appartement-lors-d-une-canicule
+
+🌊 Advaction 1D — (https://github.com/FrederickMasuama/solveur-equation-d-advection-1D)
+
+🔢 Transfert thermique FEM — https://github.com/FrederickMasuama/flux_thermique_MEF.git
 
 Here are some ideas to get you started:
 
