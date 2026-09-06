@@ -22,8 +22,5 @@ Fortran · Python · Linux · Git · Gnuplot · LaTeX
 
   ### 📫 Contact
 
-[LinkedIn]([https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/in/fr%C3%A9d%C3%A9rick-masuama-8ba3b4164/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByV17dixkS3yg40fhba7YaQ%3D%3D)) · [Email](frederickmasuama@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9rick-masuama-8ba3b4164/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByV17dixkS3yg40fhba7YaQ%3D%3D)· [Email](frederickmasuama@gmail.com)
   
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
